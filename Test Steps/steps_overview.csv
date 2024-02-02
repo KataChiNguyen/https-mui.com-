@@ -1,12 +1,5 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-0,Verify Sign Up Process at Store Page,Navigate to the home page and access the store section. Proceed to sign in and then sign up if you don't have an account. Complete the sign-up process and verify the store page.,"step 1: Navigate to Page home
-step 2: At Page home, click on hyperlink product core > navigate to Page core
-step 3: At Page core, click on hyperlink product advanced > navigate to Page x
-step 4: At Page x, click on hyperlink product templates > navigate to Page templates
-step 5: At Page templates, click on hyperlink browse templates > navigate to Page store
-step 6: At Page store, click on hyperlink store
-step 7: At Page store, click on hyperlink store
-step 8: At Page store, click on hyperlink sign in > navigate to Page store sign-in
-step 9: At Page store sign-in, click on hyperlink don t have an account sign up > navigate to Page store sign-up
-step 10: At Page store sign-up login > navigate to Page store
-step 11: Add visual checkpoint at Page store",Trivial
+0,Verify Access to Material UI Page,Navigate to the core libraries page and access the Material-UI page. Verify that the Material-UI page is accessible.,"step 1: Navigate to Page home
+step 2: At Page home, click on hyperlink discover the core libraries > navigate to Page core
+step 3: At Page core, click on hyperlink material ui an open source react compon > navigate to Page material-ui
+step 4: Add visual checkpoint at Page material-ui",Trivial

@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: At Page home, click on hyperlink discover the core libraries > navigate to Page core",
+        "step 3: At Page core, click on hyperlink material ui an open source react compon > navigate to Page material-ui",
+        "step 4: Add visual checkpoint at Page material-ui"
+    ]
+}
