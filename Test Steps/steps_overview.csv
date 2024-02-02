@@ -1,5 +1,5 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-0,Verify Successful Sign Up Process at Page Store,Navigate to the home page and access the core product. Proceed to the advanced product and browse templates in the store. Sign in or sign up and verify the store page.,"step 1: Navigate to Page home
+0,Verify Sign Up Process at Store Page,Navigate to the home page and access the store section. Proceed to sign in and then sign up if you don't have an account. Complete the sign-up process and verify the store page.,"step 1: Navigate to Page home
 step 2: At Page home, click on hyperlink product core > navigate to Page core
 step 3: At Page core, click on hyperlink product advanced > navigate to Page x
 step 4: At Page x, click on hyperlink product templates > navigate to Page templates

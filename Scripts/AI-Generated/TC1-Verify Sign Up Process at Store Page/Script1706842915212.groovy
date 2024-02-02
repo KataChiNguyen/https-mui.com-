@@ -1,7 +1,7 @@
-import internal.GlobalVariable as GlobalVariable
 import katalon.truetest.TrueTestScripts
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import internal.GlobalVariable as GlobalVariable
 
 'Initialize test session: Open browser and set view port'
 
@@ -53,7 +53,7 @@ TrueTestScripts.login()
 
 'Step 11: Add visual checkpoint at Page store'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify Successful Sign Up Process at Page Store_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify Sign Up Process at Store Page_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
